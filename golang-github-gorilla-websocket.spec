@@ -1,6 +1,6 @@
 Name     : golang-github-gorilla-websocket
 Version  : 0
-Release  : 5
+Release  : 6
 URL      : https://github.com/gorilla/websocket/archive/39cd638460acf1c01aaac38effc6e54ee7e04bca.tar.gz
 Source0  : https://github.com/gorilla/websocket/archive/39cd638460acf1c01aaac38effc6e54ee7e04bca.tar.gz
 Summary  : No detailed summary available
